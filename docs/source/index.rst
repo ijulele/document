@@ -1,7 +1,7 @@
 
 
   
-CnC-Pinguin Docss
+CnC-Pinguin Docsss
 ================
 
 .. toctree::
