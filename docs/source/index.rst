@@ -6,13 +6,7 @@
 Welcome to CnC-Pinguin's documentation!
 ===================================
 
-Contents:
 
-.. toctree::
-   :maxdepth: 2
-   
-   chapter01
-   chapter02
 
 
 
