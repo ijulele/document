@@ -1,13 +1,18 @@
-.. pinguin documentation master file, created by
-   sphinx-quickstart on Tue Dec 15 02:48:07 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
+  chapter01
+  chapter02
+  
 Welcome to CnC-Pinguin's documentation!
 ===================================
 
 
 
+
+.. toctree::
+   :maxdepth: 2
+   
+   chapter01
+   chapter02
 
 
 Indices and tables
