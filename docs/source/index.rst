@@ -1,8 +1,8 @@
 
 
   
-CnC-Pinguin Docsss
-================
+CnC-Pinguin Docsssss
+====================
 
 .. toctree::
    :maxdepth: 2
