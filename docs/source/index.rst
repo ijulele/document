@@ -1,8 +1,8 @@
 
 
   
-Welcome to CnC-Pinguin's documentation!
-===================================
+CnC-Pinguin Docs
+================
 
 
 
