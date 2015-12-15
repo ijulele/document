@@ -19,8 +19,8 @@
    
    
 .. sidebar:: About
-   - Facebook :
-   - Twitter  :
+    * **Official site**: `http://www.cnc.com <http://www.cnc.com>`_
+    * **Lab**: `#cnc at O203`
 
 
 Indices and tables
