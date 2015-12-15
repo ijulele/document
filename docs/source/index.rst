@@ -12,10 +12,9 @@
 .. sidebar:: About
 
     * **Official site**: `http://labcnc.com`_
-    * **Twitter**: `@nethserver <http://twitter.com/cnc_laboratory>`_
-    * **Mailing list**: `laboratoriumcnc@gmail.com` `naufal.itt@gmail.com` 
-    * **ML archive**: `Google Groups <https://groups.google.com/d/forum/nethserver>`_
-    * **IRC**: `#nethserver on freenode.net`
+    * **Twitter**: `<http://twitter.com/cnc_laboratory>`_
+    * **Mailing list**: `lab.cnc203@gmail.com` `naufal.itt@gmail.com` 
+ 
 
    
 .. toctree::
