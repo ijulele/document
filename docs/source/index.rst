@@ -4,6 +4,8 @@
 CnC-Pinguin Docs!
 =================
 
+.. image:: /images/cnc.png
+
 .. toctree::
    :maxdepth: 2
    :hidden:
