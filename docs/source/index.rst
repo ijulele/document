@@ -6,7 +6,6 @@
 
 .. image:: /images/cnc.png
     :width: 200px
-    :align: left
     :height: 100px
     
    
