@@ -1,4 +1,4 @@
-Chapter2
---------
+Basic OSPF Configuration
+========================
 
 This chapter 2
