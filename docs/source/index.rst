@@ -1,8 +1,8 @@
 
 
   
-CNC University of Telkom Documentation
-======================================
+**Naufal's Documentation** 
+======================
 
 .. image:: /images/cnc.png
     :width: 200px
