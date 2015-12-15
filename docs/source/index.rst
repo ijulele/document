@@ -1,8 +1,8 @@
 
 
   
-CNC University of Telkom Documentation!
-=======================================
+CNC University of Telkom Documentation
+======================================
 
 .. image:: /images/cnc.png
     :width: 200px
