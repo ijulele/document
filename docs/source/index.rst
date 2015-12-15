@@ -1,8 +1,8 @@
 
 
   
-CnC-Pinguin Docs!
-=================
+CNC University of Telkom Documentation
+======================================
 
 .. image:: /images/cnc.png
 
