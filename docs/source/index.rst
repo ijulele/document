@@ -11,10 +11,6 @@
     :alt: alternate text
     :figclass: align-center
 
-    figure are like images but with a caption
-
-    and whatever else youwish to add
-
     .. code-block:: python
 
         import image
