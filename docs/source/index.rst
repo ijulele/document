@@ -8,10 +8,7 @@
     :width: 200px
     :align: left
     :height: 100px
-    :alt: alternate text
-    :figclass: align-center
 
-   
 
 .. toctree::
    :maxdepth: 2
