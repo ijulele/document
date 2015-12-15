@@ -8,7 +8,7 @@ CNC University of Telkom Documentation!
     :width: 200px
     :align: left
     :height: 100px
-    :alt: alternate text
+    
 
 .. toctree::
    :maxdepth: 2
