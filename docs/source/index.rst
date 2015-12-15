@@ -1,8 +1,8 @@
 
 
   
-CnC-Pinguin Docsssss
-====================
+CnC-Pinguin Docs!
+=================
 
 .. toctree::
    :maxdepth: 2
@@ -10,7 +10,7 @@ CnC-Pinguin Docsssss
    
    chapter01
    chapter03
-   chapter04
+   
 
 
 
