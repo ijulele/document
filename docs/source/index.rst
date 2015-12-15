@@ -18,7 +18,7 @@ CNC University of Telkom Documentation
    chapter03
    
    
-.. :about:: asdsadd
+
 
 Indices and tables
 ==================
