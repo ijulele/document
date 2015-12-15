@@ -11,9 +11,7 @@
     :alt: alternate text
     :figclass: align-center
 
-    .. code-block:: python
-
-        import image
+   
 
 .. toctree::
    :maxdepth: 2
