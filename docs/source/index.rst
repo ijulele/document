@@ -1,8 +1,8 @@
 
 
   
-**Naufal's Documentation12** 
-======================
+**CnC Senior Member Documentation** 
+===================================
 
 .. image:: /images/cnc.png
     :width: 200px
