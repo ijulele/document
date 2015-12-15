@@ -9,9 +9,7 @@
     :align: left
     :height: 100px
     
-    :
-    :
-
+   
 
 .. toctree::
    :maxdepth: 2
@@ -22,7 +20,7 @@
    
    
 
-..Indices and tables
+  Indices and tables
   ==================
 
   * :ref:`genindex`
