@@ -18,6 +18,11 @@
    chapter03
    
    
+.. sidebar:: About
+
+- Facebook :
+- Twitter  :
+
 
 Indices and tables
 ==================
