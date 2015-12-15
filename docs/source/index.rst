@@ -9,15 +9,6 @@
     :height: 100px
     
    
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   
-   chapter01
-   chapter03
-   
-   
 .. sidebar:: About
 
     * **Official site**: `http://www.nethserver.org <http://www.nethserver.org>`_
@@ -29,6 +20,15 @@
     * **IRC**: `#nethserver on freenode.net`
 
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   
+   chapter01
+   chapter03
+   
+   
+
    
 Indices and tables
 ==================
