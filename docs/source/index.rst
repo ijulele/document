@@ -1,7 +1,7 @@
 
 
   
-**Naufal's Documentation** 
+**Naufal's Documentation1** 
 ======================
 
 .. image:: /images/cnc.png
