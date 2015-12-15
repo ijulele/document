@@ -1,8 +1,8 @@
 
 
   
-CNC University of Telkom Documentation
-======================================
+CNC University of Telkom Documentation!
+=======================================
 
 .. image:: /images/cnc.png
     :width: 200px
@@ -18,6 +18,13 @@ CNC University of Telkom Documentation
    chapter03
    
    
+
+
+
+
+
+
+
 
 
 Indices and tables
