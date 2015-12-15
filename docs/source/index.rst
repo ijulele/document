@@ -8,6 +8,9 @@
     :width: 200px
     :align: left
     :height: 100px
+    
+    :
+    :
 
 
 .. toctree::
@@ -19,17 +22,10 @@
    
    
 
+..Indices and tables
+  ==================
 
-
-
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`
 
