@@ -19,9 +19,8 @@
    
    
 .. sidebar:: About
-
-- Facebook :
-- Twitter  :
+   - Facebook :
+   - Twitter  :
 
 
 Indices and tables
