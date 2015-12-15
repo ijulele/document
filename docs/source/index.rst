@@ -1,7 +1,7 @@
 
 
   
-**CnC Senior Member Documentation** 
+**CnC SM's Documentation** 
 ===================================
 
 .. image:: /images/cnc.png
